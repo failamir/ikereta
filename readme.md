@@ -16,13 +16,13 @@ git clone https://github.com/panduwijaya/ikereta
 Untuk mendapatkan database ikuti tutorial di website yang telah saya sediakan
 
 ## ScreenShot
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss1.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss2.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss3.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss4.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss5.png)
-![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/branch/assets/ss/ss6.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss1.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss2.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss3.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss4.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss5.png)
+![alt text](https://raw.githubusercontent.com/panduwijaya/ikereta/assets/ss/ss6.png)
 
 ## Tools & Framework
  * Codeigniter 3.1.9
